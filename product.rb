@@ -1,4 +1,4 @@
-header - add some content by hungnh
+new header
 product information
   name
   image
